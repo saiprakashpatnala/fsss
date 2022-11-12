@@ -1,0 +1,12 @@
+.product-name {
+  font-family: 'Roboto';
+  font-size: 22px;
+}
+.price {
+  font-family: 'Roboto';
+  font-size: 12px;
+}
+
+.items-list {
+  width: 45%;
+}
